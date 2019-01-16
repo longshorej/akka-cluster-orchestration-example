@@ -25,4 +25,4 @@ deployMinikubeRpArguments ++= Vector(
 
 deployMinikubeAkkaClusterBootstrapContactPoints := 3
 
-memory := 512 * 1024 * 1024
+memory := 512L * 1024 * 1024
